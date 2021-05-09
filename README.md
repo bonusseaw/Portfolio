@@ -6,7 +6,7 @@
 - ภาษาที่ใช้ : PHP , HTML , CSS
 - ส่วนที่ได้รับมอบหมายในการพัฒนา : ส่วนการออกแบบ UI , ออกแบบฐานข้อมูล และการเขียนโปรแกรมทั้งหมด
 - รายวิชา : Management of Information Technology ชั้นปีที่ 3 เทอม 2
-- Code ทั้งหมด :
+- Code ทั้งหมด : https://github.com/bonusseaw/Badminton-Court
 
 [![login.png](https://i.postimg.cc/vHFrKrB4/login.png)](https://postimg.cc/QVmK9WcD)
 [![image.png](https://i.postimg.cc/DyvZm0pC/image.png)](https://postimg.cc/8sYD0pSW)
@@ -20,7 +20,7 @@
 - ภาษาที่ใช้ : PHP , HTML , JavaScript , Python , CSS
 - ส่วนที่ได้รับมอบหมายในการพัฒนา : ส่วนการออกแบบ UI ,  การเขียนโปรแกรมในส่วน Front End ทั้งหมด
 - รายวิชา : Data Security System ชั้นปีที่ 4 เทอม 1
-- Code ทั้งหมด :
+- Code ทั้งหมด : https://github.com/bonusseaw/GameShop
 
 [![login.png](https://i.postimg.cc/DzSVNkjd/login.png)](https://postimg.cc/zLYPLM1V)
 [![shop.png](https://i.postimg.cc/5y1RbZ3r/shop.png)](https://postimg.cc/Pp34MV0b)
@@ -41,6 +41,7 @@
 - ภาษาที่ใช้ : PHP , HTML , JavaScript , CSS
 - ส่วนที่ได้รับมอบหมายในการพัฒนา : ออกแบบฐานข้อมูล , ออกแบบและปรับปรุงหน้า UI ทั้งหมด , เขียนโปรแกรมในส่วนของ Front End และ Back End ทั้งหมด
 - รายวิชา : ฝึกงานสหกิจศึกษา ชั้นปีที่ 4 เทอม 2
+- Code ทั้งหมด : https://github.com/bonusseaw/Dairy-cattle-system
 
 [![login.png](https://i.postimg.cc/tRkK9N1M/login.png)](https://postimg.cc/V5SGRMWq)
 [![image.png](https://i.postimg.cc/9Q6SLxSr/image.png)](https://postimg.cc/NKxpMxQc)
