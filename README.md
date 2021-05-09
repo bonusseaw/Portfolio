@@ -13,6 +13,7 @@
 [![image.png](https://i.postimg.cc/Y0nwvrjV/image.png)](https://postimg.cc/n9DW5t4Y)
 [![image.png](https://i.postimg.cc/jSJrjrTg/image.png)](https://postimg.cc/87DYy9jM)
 
+
 ### ระบบยืนยันการซื้อขายออนไลน์ด้วย OTP
 เป็นระบบซื้อขายเกมออนไลน์ จุดประสงค์หลักคือ เพิ่มความปลอดภัยของระบบซื้อขายทางอินเตอร์เน็ต โดยนำรหัส OTP มาใช้ในการยืนยันตัวตนก่อนการชำระเงิน 
 - สถาปัตยกรรมที่ใช้ : MVC
@@ -20,4 +21,8 @@
 - ส่วนที่ได้รับมอบหมายในการพัฒนา : ส่วนการออกแบบ UI ,  การเขียนโปรแกรมในส่วน Front End ทั้งหมด
 - รายวิชา : Data Security System
 - Code ทั้งหมด :
+
+[![login.png](https://i.postimg.cc/DzSVNkjd/login.png)](https://postimg.cc/zLYPLM1V)
+[![shop.png](https://i.postimg.cc/5y1RbZ3r/shop.png)](https://postimg.cc/Pp34MV0b)
+[![checkout.jpg](https://i.postimg.cc/xTf47VqJ/checkout.jpg)](https://postimg.cc/SjPd256k)
 
