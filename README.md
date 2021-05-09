@@ -5,7 +5,7 @@
 - สถาปัตยกรรมที่ใช้ : MVC
 - ภาษาที่ใช้ : PHP , HTML , CSS
 - ส่วนที่ได้รับมอบหมายในการพัฒนา : ส่วนการออกแบบ UI , ออกแบบฐานข้อมูล และการเขียนโปรแกรมทั้งหมด
-- รายวิชา : Management of Information Technology
+- รายวิชา : Management of Information Technology ชั้นปีที่ 3 เทอม 2
 - Code ทั้งหมด :
 
 [![login.png](https://i.postimg.cc/vHFrKrB4/login.png)](https://postimg.cc/QVmK9WcD)
@@ -19,7 +19,7 @@
 - สถาปัตยกรรมที่ใช้ : MVC
 - ภาษาที่ใช้ : PHP , HTML , JavaScript , Python , CSS
 - ส่วนที่ได้รับมอบหมายในการพัฒนา : ส่วนการออกแบบ UI ,  การเขียนโปรแกรมในส่วน Front End ทั้งหมด
-- รายวิชา : Data Security System
+- รายวิชา : Data Security System ชั้นปีที่ 4 เทอม 1
 - Code ทั้งหมด :
 
 [![login.png](https://i.postimg.cc/DzSVNkjd/login.png)](https://postimg.cc/zLYPLM1V)
@@ -31,7 +31,7 @@
 - Framework ที่ใช้พัฒนา : Node.js , Laravel Mix
 - ภาษาที่ใช้ : JavaScript , HTML , CSS 
 - ส่วนที่ได้รับมอบหมายในการพัฒนา : ปรับปรุงฟังก์ชัน Dashboards , เขียนโปรแกรมสร้าง Widget ชนิด Slider เพื่อเชื่อมต่อกับอุปกรณ์ IoT และแสดงผลบน Dashboards
-- รายวิชา : ฝึกงานสหกิจศึกษา
+- รายวิชา : ฝึกงานสหกิจศึกษา ชั้นปีที่ 4 เทอม 2
 
 [![slider.png](https://i.postimg.cc/FKpG5Dzr/slider.png)](https://postimg.cc/yJJ00h0t)
 [![dashboards.png](https://i.postimg.cc/mZJv52Kd/dashboards.png)](https://postimg.cc/CdCrZYhD)
@@ -40,7 +40,7 @@
 เป็นระบบการจัดการโคนมที่ดูแลในฟาร์ม และสหกรณ์ที่เป็นพันธมิตรกับโรงพยาบาลสัตว์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน โดยผู้ใช้งานระบบมี 6 ประเภท ได้แก่ ผู้บริหารแอพพลิเคชัน สัตวแพทย์ เทคนิคการสัตวแพทย์ พนักงานในสหกรณ์โคนม ศูนย์รับน้ำนมดิบ และผู้เลี้ยงโคนม
 - ภาษาที่ใช้ : PHP , HTML , JavaScript , CSS
 - ส่วนที่ได้รับมอบหมายในการพัฒนา : ออกแบบฐานข้อมูล , ออกแบบและปรับปรุงหน้า UI ทั้งหมด , เขียนโปรแกรมในส่วนของ Front End และ Back End ทั้งหมด
-- รายวิชา : ฝึกงานสหกิจศึกษา
+- รายวิชา : ฝึกงานสหกิจศึกษา ชั้นปีที่ 4 เทอม 2
 
 [![login.png](https://i.postimg.cc/tRkK9N1M/login.png)](https://postimg.cc/V5SGRMWq)
 [![image.png](https://i.postimg.cc/9Q6SLxSr/image.png)](https://postimg.cc/NKxpMxQc)
