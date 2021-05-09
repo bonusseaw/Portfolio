@@ -1,2 +1,2 @@
-# Portfolio
-Portfolio แสดงผลงานด้าน Web Developer ของนางสาวสุพิชชา วงษ์ทองแท้
+# Portfolio นางสาวสุพิชชา วงษ์ทองแท้
+Portfolio แสดงผลงานด้าน Web Developer 
