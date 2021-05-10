@@ -41,7 +41,6 @@
 - ภาษาที่ใช้ : PHP , HTML , JavaScript , CSS
 - ส่วนที่ได้รับมอบหมายในการพัฒนา : ออกแบบฐานข้อมูล , ออกแบบและปรับปรุงหน้า UI ทั้งหมด , เขียนโปรแกรมในส่วนของ Front End และ Back End ทั้งหมด
 - รายวิชา : ฝึกงานสหกิจศึกษา ชั้นปีที่ 4 เทอม 2
-- Code ทั้งหมด : https://github.com/bonusseaw/Dairy-cattle-system
 
 [![login.png](https://i.postimg.cc/tRkK9N1M/login.png)](https://postimg.cc/V5SGRMWq)
 [![image.png](https://i.postimg.cc/9Q6SLxSr/image.png)](https://postimg.cc/NKxpMxQc)
